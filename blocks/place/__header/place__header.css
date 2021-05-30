@@ -1,0 +1,17 @@
+@media screen and (min-width: 768px) {
+    .place__header {
+      width: 93.75vw;
+      display: flex;
+      align-items: flex-end;
+      margin-top: 0;
+      margin-bottom: 0;
+      margin-right: 3.125vw;
+      margin-left: 3.125vw;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+  .place__header {
+    margin-left: 0;
+  }
+}

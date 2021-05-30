@@ -1,0 +1,14 @@
+@media screen and (min-width: 1024px) {
+  .place {
+    width: 90.62vw;
+    margin-left: 4.68vw;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .place {
+    max-width: 984px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

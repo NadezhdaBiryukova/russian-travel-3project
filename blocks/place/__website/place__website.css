@@ -1,0 +1,14 @@
+.place__website {
+    width: 90vw;
+    margin-right: 5vw;
+    margin-left: 5vw;
+    margin-top: 32px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .place__website {
+      max-width: 45.83vw;
+      margin-left: 3.65vw;
+      margin-right: 0;
+    }
+  }

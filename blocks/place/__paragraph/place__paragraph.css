@@ -1,0 +1,33 @@
+.place__paragraph {
+    width: 90vw;
+    margin-right: 5vw;
+    margin-left: 5vw;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 163%;
+  }
+
+  @media screen and (min-width: 768px) {
+    .place__paragraph {
+      margin-top: 0;
+      margin-right: 0;
+      width: 45.83vw;
+      margin-right: 3.125vw;
+      margin-left: 3.64vw;
+    }
+  }
+
+  @media screen and (min-width: 1024px) {
+    .place__paragraph {
+      width: 44.53vw;
+      font-size: 18px;
+      line-height: 163%;
+    }
+  }
+
+  @media screen and (min-width: 1280px) {
+    .place__paragraph {
+      max-width: 484px;
+    }
+  }

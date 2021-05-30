@@ -1,0 +1,6 @@
+@media screen and (min-width: 768px) {
+    .place__info {
+      display: flex;
+      flex-direction: column;
+    }
+}
