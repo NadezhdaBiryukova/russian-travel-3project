@@ -10,7 +10,7 @@
 
   @media screen and (min-width: 768px) {
     .intro__title {
-      width: 93.75vw;
+      max-width: 93.75vw;
       margin-right: 3.125vw;
       margin-left: 3.125vw;
       font-size: 54px;
@@ -22,6 +22,7 @@
 
   @media screen and (min-width: 1024px) {
     .intro__title {
+      max-width: 690px;
       margin-left: 0;
     }
   }

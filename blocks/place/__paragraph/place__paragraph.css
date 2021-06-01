@@ -1,5 +1,5 @@
 .place__paragraph {
-    width: 90vw;
+    max-width: 90vw;
     margin-right: 5vw;
     margin-left: 5vw;
     font-style: normal;
@@ -11,7 +11,7 @@
   @media screen and (min-width: 768px) {
     .place__paragraph {
       margin-top: 0;
-      width: 45.83vw;
+      max-width: 45.83vw;
       margin-right: 3.125vw;
       margin-left: 3.64vw;
     }
@@ -19,7 +19,7 @@
 
   @media screen and (min-width: 1024px) {
     .place__paragraph {
-      width: 44.53vw;
+      max-width: 44.53vw;
       font-size: 18px;
       line-height: 163%;
     }

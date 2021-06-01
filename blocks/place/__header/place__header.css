@@ -1,6 +1,6 @@
 @media screen and (min-width: 768px) {
     .place__header {
-      width: 93.75vw;
+      max-width: 93.75vw;
       display: flex;
       align-items: flex-end;
       margin-top: 0;
@@ -12,6 +12,7 @@
 
 @media screen and (min-width: 1024px) {
   .place__header {
+    max-width: 35.93vw;
     margin-left: 0;
   }
 }
