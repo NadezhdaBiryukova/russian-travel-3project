@@ -2,9 +2,8 @@
     max-width: 288px;
     font-style: normal;
     font-weight: normal;
-    font-size: 12px;
-    line-height: 12px;
-    letter-spacing: 0.2em;
+    font-size: 18px;
+    line-height: 22px;
     color:#FFFFFF;
   }
 
@@ -20,7 +19,7 @@
       max-width: 352px;
       font-size: 18px;
       line-height: 22px;
-      margin-top: 12px 0 0 0;
+      margin: 12px 0 0 0;
     }
   }
 

@@ -12,7 +12,6 @@
 
 @media screen and (min-width: 1024px) {
   .place__header {
-    max-width: 35.93vw;
-    margin-left: 0;
+    margin: 0 40px 0 0;
   }
 }

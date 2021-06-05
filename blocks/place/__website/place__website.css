@@ -15,7 +15,9 @@
 
   @media screen and (min-width: 1024px) {
     .place__website {
-      max-width: 456px;
-      margin-right: 4.68vw;
+      min-width: 456px;
+      min-height: 46px;
+      margin-left: 3.12vw;
+      margin-right: 0;
     }
   }
